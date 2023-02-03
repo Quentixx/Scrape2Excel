@@ -4,7 +4,7 @@ import com.github.crab2died.annotation.ExcelField;
 
 public class OrderEntity {
 
-    @ExcelField(title = "NUMERO COMMANDE", order = 1)
+    @ExcelField(title = "ORDER ID", order = 1)
     private long orderID;
 
     @ExcelField(title = "STORE NAME", order = 2)
