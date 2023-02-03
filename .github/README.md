@@ -31,6 +31,7 @@ dataScraper.getCookies().put("AUTH_COOKIE_NAME", "YOUR_AUTH_TOKEN");
 
 #### Find the pattern corresponding to your data
 ![](findpattern.jpg)
+
 In my case, the pattern matches as "tbody tbody".
 
 #### Observe the data structure at each row of the table
