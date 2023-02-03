@@ -1,4 +1,4 @@
-package fr.quentixx.scrape2excel.entity;
+package fr.quentixx.scrape2excel.example.entity;
 
 import com.github.crab2died.annotation.ExcelField;
 

@@ -3,7 +3,7 @@ package fr.quentixx.scrape2excel.example;
 import com.github.crab2died.ExcelUtils;
 import com.github.crab2died.exceptions.Excel4JException;
 import fr.quentixx.scrape2excel.DataScraper;
-import fr.quentixx.scrape2excel.entity.OrderEntity;
+import fr.quentixx.scrape2excel.example.entity.OrderEntity;
 
 import java.io.IOException;
 import java.util.List;
