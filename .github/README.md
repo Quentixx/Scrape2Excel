@@ -12,7 +12,7 @@ additional information by clicking on the order number, which is why I
 opted for scrapping rather than conversion by regex.
 <br>
 This allowed me to import 456 customers into my Excel file in just 2 minutes.
-<br>I used <a href="https://github.com/jhy/jsoup" target="_blank">JSoup</a> to scratch data from websites and <a href="https://github.com/Crab2died/Excel4J" target="_blank">Excel4J</a> to build .xlxs files.
+<br>I used <a href="https://github.com/jhy/jsoup" target="_blank">JSoup</a> to scratch data from websites and <a href="https://github.com/Crab2died/Excel4J" target="_blank">Excel4J</a> to build .xlsx files.
 
 ## Scratch data from a website
 
