@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "me.quentin"
+group = "fr.quentixx"
 version = "1.0-SNAPSHOT"
 
 repositories {
